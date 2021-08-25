@@ -2,12 +2,12 @@ KOMPALLI SREEKAR
 0028RI
 MANUAL TEST-2
 14/18
-1.
-2.A
-3.A
-4.A
-5.A
-6.D
+1.a
+2.a
+3.a
+4.a
+5.a
+6.a
 7.D
 8.A  
 9.B
